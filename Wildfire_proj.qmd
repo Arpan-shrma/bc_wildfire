@@ -1,6 +1,6 @@
 ---
 title: "Wildfire distribution in B.C"
-author: "DATA*6200"
+author: "Arpan"
 date: "November 10, 2024"
 format: html
 execute: 
